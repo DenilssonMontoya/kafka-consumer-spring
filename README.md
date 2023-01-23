@@ -1,3 +1,5 @@
+![SpringKafka.png](img%2FSpringKafka.png)
+---
 # Kafka consumer example
 
 **Project to consume messages from a Kafka topic using spring.**
